@@ -1,4 +1,4 @@
-Live site: [https://jeanwll.github.io/ConnectFour/](https://mohamedwael257.github.io/Connect-Four-Game/)
+Live site:https://mohamedwael257.github.io/Connect-Four-Game/
 
 ![](./screenshot1.png)
 
